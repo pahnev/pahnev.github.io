@@ -1,0 +1,17 @@
+{{ partial "head.html" . }}
+<body>
+{{ partial "nav.html" . }}
+
+<section id="wrapper" class="home">
+    	<a href='{{ .Site.BaseURL }}archive'>{{ with .Site.Params.archive }}{{ . }}{{ else }}Archive{{ end }}</a>
+
+    {{ partial "post-list.html"  . }}
+    {{ partial "post-list.html"  . }}
+
+    {{ partial "pagination.html" . }}
+    {{ partial "footer.html"     . }}
+</section>
+
+{{ partial "js.html" . }}
+</body>
+</html>

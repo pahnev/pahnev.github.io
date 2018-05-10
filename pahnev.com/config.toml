@@ -1,0 +1,29 @@
+baseURL = "https://pahnev.cf"
+languageCode = "en-us"
+title = "Kirill Pahnev"
+theme = "cactus-plus"
+
+[taxonomies]
+	tag = "tags"
+
+[params]
+	author = "Kirill Pahnev"
+	description = "The personal site of Kirill Pahnev"
+	bio = "iOS Developer"
+	twitter = "kirillpahnev"
+	copyright = "© Copyright 2018 Kirill Pahnev"
+
+	enableToc = true
+	enableSummary = true
+
+	# 404 page
+	title404 = "Oops"
+	subtitle404 = "We got lost..."
+
+	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
+	iconFont = "font-awesome"
+
+[social]
+	twitter-square = "https://www.twitter.com/kirillpahnev"
+	github-square = "https://www.github.com/pahnev"
+    linkedin-square = "https://www.linkedin.com/in/kirillpahnev/"

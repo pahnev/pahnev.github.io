@@ -1,0 +1,40 @@
+{{ partial "head.html" . }}
+
+<body>
+    {{ partial "nav.html" . }} {{ partial "profile.html" . }}
+
+    <section id="wrapper" class="home">
+        {{ .Content }}
+
+        <section class="app-icons">
+            <ul>
+                <li>
+                    <a href="https://itunes.apple.com/app/id911422904" title="NYT Cooking" target="_blank">
+                        <img src="img/cooking.jpg" alt="NYT Cooking">
+                    </a>
+                </li>
+
+                <li>
+                    <a href="https://itunes.apple.com/app/id1144959740" title="We Read" target="_blank">
+                        <img src="img/weread.jpg" alt="We Read">
+                    </a>
+                </li>
+                <li>
+                    <a href="https://itunes.apple.com/app/id1027456457" title="Univision Fantasy" target="_blank">
+                        <img src="img/fantasy.jpg" alt="Univision Fantasy">
+                    </a>
+                </li>
+                <li>
+                    <a href="https://itunes.apple.com/app/id1038438929" title="Summa" target="_blank">
+                        <img src="img/summa.jpg" alt="Summa">
+                    </a>
+                </li>
+
+            </ul>
+        </section>
+
+        {{ partial "footer.html" . }}
+    </section>
+
+    {{ partial "js.html" . }}
+</body>
