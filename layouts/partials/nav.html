@@ -4,7 +4,7 @@
 		<a href='{{ .Site.BaseURL }}'> <span class="arrow">←</span>{{ with .Site.Params.home }}{{ . }}{{ else }}Home{{ end }}</a>
 	{{ end }}
 	<!-- <a href='{{ .Site.BaseURL }}posts'>{{ with .Site.Params.footer }}{{ . }}{{ else }}Archive{{ end }}</a> -->
-	<a href='{{ .Site.BaseURL }}blog'>{{ with .Site.Params.blog }}{{ . }}{{ else }}Blog{{ end }}</a>
+	<a href='{{ .Site.BaseURL }}/blog'>{{ with .Site.Params.blog }}{{ . }}{{ else }}Blog{{ end }}</a>
 
 	{{ range $key, $val := .Site.Params.Links }}
 		<a href="{{ $val }}">{{ $key }}</a>

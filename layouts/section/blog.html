@@ -3,7 +3,7 @@
 {{ partial "nav.html" . }}
 
 <section id="wrapper" class="home">
-    	<a href='{{ .Site.BaseURL }}archive'>{{ with .Site.Params.archive }}{{ . }}{{ else }}Archive{{ end }}</a>
+    	<a href='{{ .Site.BaseURL }}/archive'>{{ with .Site.Params.archive }}{{ . }}{{ else }}Archive{{ end }}</a>
 
     {{ partial "post-list.html"  . }}
     {{ partial "post-list.html"  . }}
