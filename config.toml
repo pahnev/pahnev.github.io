@@ -1,4 +1,4 @@
-baseURL = "https://hungry-brown-8a74ce.netlify.com"
+baseURL = "https://hungry-brown-8a74ce.netlify.com/"
 languageCode = "en-us"
 title = "Kirill Pahnev"
 theme = "cactus-plus"
