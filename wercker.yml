@@ -32,8 +32,8 @@ deploy:
         version: "0.40.3"
     - install-packages:
         packages: git ssh-client
-    - lukevivier/gh-pages@0.2.1:
+    - uetchy/gh-pages:
         token: $GIT_TOKEN
         domain: www.pahnev.cf
-        basedir: public
+        path: public
         repo: "pahnev/pahnev.github.io"
