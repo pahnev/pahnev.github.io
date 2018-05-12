@@ -34,6 +34,6 @@ deploy:
         packages: git ssh-client
     - uetchy/gh-pages:
         token: $GIT_TOKEN
-        domain: www.pahnev.cf
+        domain: pahnev.cf
         path: public
-        repo: "pahnev/pahnev.github.io"
+        repo: "kirillpahnev/kirillpahnev.github.io"
