@@ -34,7 +34,7 @@ deploy:
         packages: git ssh-client
     - pahnev/gh-pages@0.3.1:
         token: $GIT_TOKEN
-        domain: www.pahnev.cf
+        domain: pahnev.cf
         basedir: public
         branch: master
         repo: "kirillpahnev/kirillpahnev.github.io"
