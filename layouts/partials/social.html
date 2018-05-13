@@ -2,11 +2,11 @@
 {{ if eq .Site.Params.iconFont "font-awesome" }}
 	
 	{{ range $key, $val := .Site.Social }}
-    <a class="symbol" href="{{ $val }}">
+    <a class="symbol" href="{{ $val }}" target="_blank">
         <i class="fa fa-{{ $key }}"></i>
     </a>
     {{ end }}
-    <a class="symbol" href="{{ .Site.RSSLink }}">
+    <a class="symbol" href="{{ .Site.RSSLink }}" target="_blank">
         <i class="fa fa-rss-square"></i>
     </a>
 
@@ -14,11 +14,11 @@
 	
 	{{ $iconStyle := .Site.Params.socialIconStyle }}
     {{ range $key, $val := .Site.Social }}
-    <a class="symbol" href="{{ $val }}">
+    <a class="symbol" href="{{ $val }}" target="_blank">
         {{ $iconStyle }}{{ if eq $key "twitter" }}twitterbird{{ else }}{{ $key }}{{ end }}
     </a>
     {{ end }}
-    <a class="symbol" href="{{ .Site.RSSLink }}">
+    <a class="symbol" href="{{ .Site.RSSLink }}" target="_blank">
         <i class="rss"></i>
     </a>    
 {{ end }}
