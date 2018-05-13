@@ -37,4 +37,4 @@ deploy:
         domain: pahnev.cf
         basedir: public
         branch: master
-        repo: "kirillpahnev/kirillpahnev.github.io"
+        repo: pahnev/pahnev.github.io
