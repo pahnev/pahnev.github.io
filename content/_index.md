@@ -1,6 +1,6 @@
 +++
 date = "2018-05-08T18:04:24+03:00"
-title = "About me"
+title = "Kirill Pahnev - iOS Developer"
 +++
 
 Couple years ago I graduated from college. Moved to Mexico to try out my Spanish skills and work on my coding.
