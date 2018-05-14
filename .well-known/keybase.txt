@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/pahnev
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://pahnev.cf
+  * I am pahnev (https://keybase.io/pahnev) on keybase.
+  * I have a public key ASCBDDy7zlUnCUOH1z0my5XiK-7LVZMFm0cwhmNn0orO3wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209841f567f6e091bb3fa93bd1be9d664510d41969ea81394b4148456d2fa9bab50a",
+      "host": "keybase.io",
+      "kid": "0120810c3cbbce5527094387d73d26cb95e22beecb5593059b4730866367d28acedf0a",
+      "uid": "1e871f62ec419a9b1a2f5cfd2f358a19",
+      "username": "pahnev"
+    },
+    "merkle_root": {
+      "ctime": 1505811214,
+      "hash": "a8ef03bca416759be4d757e4a7294cec6862cfb353114323086d4bfcae2c9b78a6c0c147fab9fb55ae4b80dde05b2ebeba50d4f955bff6010c4105f857b79bb7",
+      "hash_meta": "461c13d574aacad2139fa2611b2167d56cfb20b821550b4a8ec49e1b96a14d86",
+      "seqno": 1409493
+    },
+    "service": {
+      "hostname": "pahnev.cf",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.30"
+  },
+  "ctime": 1505811224,
+  "expire_in": 504576000,
+  "prev": "7b7f0ef9534310d3a2faa14267f6ea971bef5aab7165649ac00b49f60bf7c6db",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEggQw8u85VJwlDh9c9JsuV4ivuy1WTBZtHMIZjZ9KKzt8Kp3BheWxvYWTFAz97ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwOTg0MWY1NjdmNmUwOTFiYjNmYTkzYmQxYmU5ZDY2NDUxMGQ0MTk2OWVhODEzOTRiNDE0ODQ1NmQyZmE5YmFiNTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwODEwYzNjYmJjZTU1MjcwOTQzODdkNzNkMjZjYjk1ZTIyYmVlY2I1NTkzMDU5YjQ3MzA4NjYzNjdkMjhhY2VkZjBhIiwidWlkIjoiMWU4NzFmNjJlYzQxOWE5YjFhMmY1Y2ZkMmYzNThhMTkiLCJ1c2VybmFtZSI6InBhaG5ldiJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUwNTgxMTIxNCwiaGFzaCI6ImE4ZWYwM2JjYTQxNjc1OWJlNGQ3NTdlNGE3Mjk0Y2VjNjg2MmNmYjM1MzExNDMyMzA4NmQ0YmZjYWUyYzliNzhhNmMwYzE0N2ZhYjlmYjU1YWU0YjgwZGRlMDViMmViZWJhNTBkNGY5NTViZmY2MDEwYzQxMDVmODU3Yjc5YmI3IiwiaGFzaF9tZXRhIjoiNDYxYzEzZDU3NGFhY2FkMjEzOWZhMjYxMWIyMTY3ZDU2Y2ZiMjBiODIxNTUwYjRhOGVjNDllMWI5NmExNGQ4NiIsInNlcW5vIjoxNDA5NDkzfSwic2VydmljZSI6eyJob3N0bmFtZSI6InBhaG5ldi5jZiIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzAifSwiY3RpbWUiOjE1MDU4MTEyMjQsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiN2I3ZjBlZjk1MzQzMTBkM2EyZmFhMTQyNjdmNmVhOTcxYmVmNWFhYjcxNjU2NDlhYzAwYjQ5ZjYwYmY3YzZkYiIsInNlcW5vIjoxNSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxECXzxJTfRCjqYUYNU9fhTQZ67VoTwYNBwsSEsk9TdN05Rm1C9p/zBoCbriaugUBGowqfSlBg1LRskg4j5pijvMGqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgYa2/XNb3IJNMSEWW+EaWbRMOzLfu9goY6UU8Ca9MuJqjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pahnev
+
+==================================================================
