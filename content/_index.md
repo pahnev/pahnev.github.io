@@ -1,13 +1,12 @@
 +++
-date = "2018-05-08T18:04:24+03:00"
+date = "2022-05-30T18:04:24+03:00"
 title = "Kirill Pahnev - iOS Developer"
 +++
 
-Couple years ago I graduated from college. Moved to Mexico to try out my Spanish skills and work on my coding.
-Now I'm back in Finland working mostly with iOS.
+I'm an engineer by heart. Love building things and finding solutions to problems. Mainly working in Apple's ecosystem.
 
 ***
 
 ### Apps I've contributed to
 
-In recent couple years I've been fortunate to have had a chance to work with some great people on some pretty cool projects.
+In recent years I've been fortunate enough to have had a chance to work with some great people on some pretty cool projects.

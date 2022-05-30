@@ -1,7 +1,7 @@
 baseURL = "https://pahnev.cf/"
 languageCode = "en-us"
 title = "Kirill Pahnev"
-theme = "cactus-plus"
+theme = "mini"
 
 [taxonomies]
 	tag = "tags"
@@ -10,20 +10,21 @@ theme = "cactus-plus"
 	author = "Kirill Pahnev"
 	description = "The personal site of Kirill Pahnev"
 	bio = "iOS Developer"
-	twitter = "kirillpahnev"
-	copyright = "© Copyright 2018 Kirill Pahnev"
+	copyright = "© Copyright 2022 Kirill Pahnev"
+	avatarLink = "https://pahnev.cf"
 
-	enableToc = true
-	enableSummary = true
+	enableToc = false
+	enableSummary = false
 
 	# 404 page
 	title404 = "Oops"
 	subtitle404 = "We got lost..."
 
-	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
-	iconFont = "font-awesome"
+	customCSS = ["css/custom.css"]
+	enableRSS = true
 
 [social]
-	twitter-square = "https://www.twitter.com/kirillpahnev"
-	github-square = "https://www.github.com/pahnev"
-    linkedin-square = "https://www.linkedin.com/in/kirillpahnev/"
+	twitter = "https://www.twitter.com/kirillpahnev"
+	github = "https://www.github.com/pahnev"
+	stackoverflow = "https://stackoverflow.com/users/2143387/pahnev"
+    linkedin = "https://www.linkedin.com/in/kirillpahnev/"

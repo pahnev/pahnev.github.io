@@ -1,0 +1,92 @@
+.app-icons {
+  margin: auto;
+  height: 200px;
+}
+
+.app-icons ul {
+   margin: 2em auto;
+   width: 100%;
+   font-family: 'HelveticaNeue', Helvetica, sans-serif;
+   font-size: 14px;
+   padding: 0;
+   display: block;
+ }
+ .app-icons ul li {
+  list-style: none;  
+  display: block;
+}
+
+ .app-icons img {
+  box-sizing: border-box;
+  border-radius: 20px;
+  height: 100px;
+  width: 100px;
+  position: relative;
+  z-index: -2;
+  box-shadow: 0 0 3px rgba(0,0,0,0.3),inset 0 0 2px rgba(0,0,0,0.5),inset 0 1px 0 rgba(255,255,255,0.25);
+}
+.app-icons span {
+  display: block;
+  width: 100px;
+  height: 10px;
+  font-weight: 300;
+  text-align: center;
+  line-height: 1em;
+  padding: 8px 0 0;
+  color: #888;
+}
+
+ #footer {
+  margin-top: 150px;
+ }
+ 
+ /* Small devices (tablets, 768px and up) */
+
+ @media (min-width: 768px) {
+   .app-icons li {
+     margin: 0.9em;
+   }
+ }
+
+ /* Small devices (tablets, up to 768px) */
+
+ @media (max-width: 768px) {
+   .app-icons li {
+     width: 20%;
+   }
+ }
+
+ @media (max-width: 568px) {
+   .app-icons li {
+     width: 50%;
+     margin: 0;
+   }
+ }
+
+ .app-icons li {
+   border-radius: 20px;
+   float: left;
+   display: block;
+   height: 120px;
+   padding: 0;
+   margin-bottom: 2em;
+ }
+
+ .app-icons a {
+   display: block;
+   width: 100px;
+   height: 120px;
+   line-height: 0;
+   margin: 0 auto;
+ }
+
+ .app-icons img {
+   box-sizing: border-box;
+   border-radius: 20px;
+   height: 100px;
+   width: 100px;
+   position: relative;
+   z-index: -2;
+   display: block;
+   box-shadow: 0 0 3px rgba(0, 0, 0, 0.3), inset 0 0 2px rgba(0, 0, 0, 0.5), inset 0 1px 0 rgba(255, 255, 255, 0.25);
+ }
