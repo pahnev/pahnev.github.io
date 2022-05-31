@@ -1,25 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Ios on Kirill Pahnev</title>
-    <link>https://pahnev.cf/tags/ios/</link>
-    <description>Recent content in Ios on Kirill Pahnev</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 13 May 2018 18:04:24 +0300</lastBuildDate>
-    
-	<atom:link href="https://pahnev.cf/tags/ios/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Autolayout Tips</title>
-      <link>https://pahnev.cf/blog/13-05-2018-autolayout-tips/autolayout-tips/</link>
-      <pubDate>Sun, 13 May 2018 18:04:24 +0300</pubDate>
-      
-      <guid>https://pahnev.cf/blog/13-05-2018-autolayout-tips/autolayout-tips/</guid>
-      <description>So, today is the day your designer hands you a design that has different layout on iPads and looks like a perfect example to use StackViews. Vertical on compact sizes and horizontal on regular.
-So you start adding the labels and button to your view - in this case using IB. You add some constraints here and there. Group the labels into one or multiple stack views, everything else to another.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ios on Kirill Pahnev</title><link>https://pahnev.cf/tags/ios/</link><description>Recent content in ios on Kirill Pahnev</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 13 May 2018 18:04:24 +0300</lastBuildDate><atom:link href="https://pahnev.cf/tags/ios/index.xml" rel="self" type="application/rss+xml"/><item><title>Autolayout Tips</title><link>https://pahnev.cf/blog/13-05-2018-autolayout-tips/autolayout-tips/</link><pubDate>Sun, 13 May 2018 18:04:24 +0300</pubDate><guid>https://pahnev.cf/blog/13-05-2018-autolayout-tips/autolayout-tips/</guid><description>So, today is the day your designer hands you a design that has different layout on iPads and looks like a perfect example to use StackViews. Vertical on compact sizes and horizontal on regular.
+So you start adding the labels and button to your view - in this case using IB. You add some constraints here and there. Group the labels into one or multiple stack views, everything else to another.</description></item></channel></rss>
