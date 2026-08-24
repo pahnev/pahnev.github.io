@@ -1,4 +1,4 @@
-baseURL = "https://pahnev.cf/"
+baseURL = "https://pahnev.com/"
 languageCode = "en-us"
 title = "Kirill Pahnev"
 theme = "mini"
@@ -10,8 +10,8 @@ theme = "mini"
 	author = "Kirill Pahnev"
 	description = "The personal site of Kirill Pahnev"
 	bio = "iOS Developer"
-	copyright = "© Copyright 2022 Kirill Pahnev"
-	avatarLink = "https://pahnev.cf"
+	copyright = "© Copyright 2026 Kirill Pahnev"
+	avatarLink = "https://pahnev.com"
 
 	enableToc = false
 	enableSummary = false
