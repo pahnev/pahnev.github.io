@@ -1,6 +1,5 @@
 .app-icons {
   margin: auto;
-  height: 200px;
 }
 
 .app-icons ul {
@@ -9,11 +8,11 @@
    font-family: 'HelveticaNeue', Helvetica, sans-serif;
    font-size: 14px;
    padding: 0;
-   display: block;
+   display: flex;
+   flex-wrap: wrap;
  }
  .app-icons ul li {
-  list-style: none;  
-  display: block;
+  list-style: none;
 }
 
  .app-icons img {
