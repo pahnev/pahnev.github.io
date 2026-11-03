@@ -23,7 +23,7 @@ theme = "mini"
 	customCSS = ["css/custom.css"]
 	enableRSS = true
 
-[social]
+[params.social]
 	github = "https://www.github.com/pahnev"
 	stackoverflow = "https://stackoverflow.com/users/2143387/pahnev"
     linkedin = "https://www.linkedin.com/in/kirillpahnev/"
